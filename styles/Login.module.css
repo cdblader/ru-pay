@@ -1,0 +1,30 @@
+.title{
+  color: white;
+  margin-top: 100px;
+}
+
+.form {
+  margin-top: 40px;
+}
+.form input{
+  width: 200px;
+  height: 30px;
+  background-color: #0E0D30;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-color: #3776FF;
+  margin-bottom: 20px;
+  margin-left: 5px;
+}
+
+.form a{
+  width: 200px;
+  height: 30px;
+  background-color: #3776FF;
+  color: white;
+  padding: 10px 80px;
+  border-radius: 5px;
+}
+
+

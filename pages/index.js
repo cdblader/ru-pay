@@ -19,6 +19,5 @@ export default function Home() {
       <p>Sistema de pagamento online de Restaurantes Universitários</p>
     </div>
     </>
-
   )
 }
